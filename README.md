@@ -1,4 +1,4 @@
-# foundations-for-data-science
+# maths-foundations-for-data-science
 
 ## Week 01 - Python Set Up and Intro
 
@@ -11,4 +11,9 @@
 ## Week 03 - Exponentials and Logarithms
 
 [README](https://github.com/richardangell/foundations-for-data-science/blob/master/03_Exponentials-and-Logarithms/README.md) - Introduction to exponentials and logarithms including natural log.
+
+## 04 - Polynomials
+
+[README](https://github.com/richardangell/foundations-for-data-science/blob/master/04_Polynomials/README.md) - Laws of indices and polynomials.
+
 
