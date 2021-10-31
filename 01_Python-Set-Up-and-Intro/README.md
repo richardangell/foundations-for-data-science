@@ -1,4 +1,4 @@
-# Week 01 - Python Set Up & Intro
+# Week 01 - Python Set Up and Intro
 
 24th September 2021
 

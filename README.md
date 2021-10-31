@@ -1,5 +1,14 @@
 # foundations-for-data-science
 
-## Week 02
+## Week 01 - Python Set Up and Intro
 
-[Simple python functions](https://github.com/richardangell/foundations-for-data-science/tree/master/02).
+[README](https://github.com/richardangell/foundations-for-data-science/blob/master/01_Python-Set-Up-and-Intro/README.md) - Set up Python development environment and intro to Python programming.
+
+## Week 02 - Git
+
+[README](https://github.com/richardangell/foundations-for-data-science/blob/master/02_Git/README.md) - Get set up with Git and some Python exercises.
+
+## Week 03 - Exponentials and Logarithms
+
+[README](https://github.com/richardangell/foundations-for-data-science/blob/master/03_Exponentials-and-Logarithms/README.md) - Introduction to exponentials and logarithms including natural log.
+
