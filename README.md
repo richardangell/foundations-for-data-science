@@ -16,4 +16,8 @@
 
 [README](https://github.com/richardangell/foundations-for-data-science/blob/main/04_Polynomials/README.md) - Laws of indices and polynomials.
 
+## 05 - Quadratics
+
+[README](https://github.com/richardangell/foundations-for-data-science/blob/main/05_Quadratics/README.md) - Quadratic equations, graphs and quadratic formula.
+
 
