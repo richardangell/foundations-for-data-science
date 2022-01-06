@@ -20,4 +20,6 @@
 
 [README](https://github.com/richardangell/foundations-for-data-science/blob/main/05_Quadratics/README.md) - Quadratic equations, graphs and quadratic formula.
 
+## 06 - Simultaneous Equations
 
+[README](https://github.com/richardangell/foundations-for-data-science/blob/main/06_Simulataneous-Equsations/README.md) - Graphs and solving simultaneous equations.
